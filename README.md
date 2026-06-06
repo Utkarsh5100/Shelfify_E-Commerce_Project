@@ -396,14 +396,8 @@ RAZORPAY_KEY_SECRET=your_razorpay_key_secret
 
 <div align="center">
 
-### ⭐ If you like this project, give it a star!
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
 
 </div>
 
-10. Razorpay payment Integration
-11. Orders page
-12. Search bar to search books by Book name and Author name
-13. Pagination 
 
